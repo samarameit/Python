@@ -4,31 +4,31 @@ Se han colocado sensores de temperaturas en varios puntos del parque.
 
 Para empezar, se quiere hacer un informe que contenga la siguiente información:
 
-***Informe de temperaturas del Parque Natural de Doñana:***
+*Informe de temperaturas del Parque Natural de Doñana:*
 
-Fecha: Debe ser tomada automáticamente: 24-11-2022
+*Fecha: Debe ser tomada automáticamente: 24-11-2022*
 
-Hora: Debe ser tomada automáticamente: 10:15
+*Hora: Debe ser tomada automáticamente: 10:15*
 
-Número de muestras:
+*Número de muestras:*
 
-Temperaturas tomadas:
+*Temperaturas tomadas:*
 
-Temperatura máxima:
+*Temperatura máxima:*
 
-Temperatura mínima:
+*Temperatura mínima:*
 
-Temperatura media:
+*Temperatura media:*
 
 El programa en Python:
 
-1.- Preguntará las temperaturas correspondientes.
-Toma de temperaturas (son números reales) hasta que se pulse 100.
+**1.- Preguntará las temperaturas correspondientes.
+Toma de temperaturas (son números reales) hasta que se pulse 100.**
 
-2.- Los analizará y mostrará en pantalla el informe anterior.
+**2.- Los analizará y mostrará en pantalla el informe anterior.**
 
-3.- A continuación, creará una tupla con la siguiente información:
-(24-11-2022,10:15,t1,t2,t3,t4) que se guardará en un archivo llamados temperaturas.txt
+**3.- A continuación, creará una tupla con la siguiente información:
+(24-11-2022,10:15,t1,t2,t3,t4) que se guardará en un archivo llamados temperaturas.txt**
 
 
 # Realización del script Python:
