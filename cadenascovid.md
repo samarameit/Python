@@ -37,3 +37,5 @@ El programa en Python:
 ![resultadoCadenas](https://github.com/samarameit/Python/blob/main/imagenes/cadenasResult.png)
 
 *En este caso no he mandado la tupla a ningún archivo ya que el ejercicio no lo especificaba, pero en caso de querer hacerlo se puede hacer igual que en el ejercicio "temperaturas". Convertiriamos la tupla en una lista para poder mandarla a un fichero .txt.*
+
+[Código](https://github.com/samarameit/Python/blob/main/scriptsPython/cadenas2.py)
