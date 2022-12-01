@@ -40,3 +40,5 @@ Toma de temperaturas (son números reales) hasta que se pulse 100.**
 ![Resultado](https://github.com/samarameit/Python/blob/main/imagenes/temperaturasResultado.png)
 
 *En este caso tenia puesto que la tupla creada se mostrase en pantalla al ejecutar el script para comprobar que funcionase correctamente, pero realmente no es necesario ya que se envía y guarda en un archivo al que despues podemos acceder. Lo ideal sería quitar ese print.*
+
+[Codigo](https://github.com/samarameit/Python/blob/main/scriptsPython/temperaturas.py)
