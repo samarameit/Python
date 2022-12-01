@@ -6,3 +6,6 @@
   2.- Cadenas: [Virus](https://github.com/samarameit/Python/blob/main/cadenascovid.md)
 
 ## Referencias
+Los scripts y temario mandados por mi profesor Manuel Dominguez.
+
+[Random-string-Python](https://www.delftstack.com/es/howto/python/random-string-python/)
